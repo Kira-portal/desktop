@@ -5,7 +5,7 @@
 **Kira Portal**'ı Windows'ta native bir uygulama olarak kullanın.
 Tarayıcı sekmesi yok; hızlı, kalıcı oturumlu, tam ekran bir deneyim.
 
-[![İndir](https://img.shields.io/badge/İndir-Windows%20(.exe)-2ea44f?style=for-the-badge&logo=windows)](https://github.com/Kira-portal/desktop/releases/latest/download/KiraPortalSetup.exe)
+[![İndir](https://img.shields.io/badge/İndir-Windows%20(.exe)-2ea44f?style=for-the-badge&logo=windows)](https://github.com/Kira-portal/desktop/releases/download/v1.0.0/Kira.Portal-1.0.0.Setup.exe)
 [![Sürümler](https://img.shields.io/badge/Tüm%20Sürümler-Releases-blue?style=for-the-badge&logo=github)](https://github.com/Kira-portal/desktop/releases)
 
 </div>
@@ -18,7 +18,7 @@ Tarayıcı sekmesi yok; hızlı, kalıcı oturumlu, tam ekran bir deneyim.
 
 En son sürümü indirmek için tıklayın:
 
-> ### ⬇️ [KiraPortalSetup.exe indir](https://github.com/Kira-portal/desktop/releases/latest/download/KiraPortalSetup.exe)
+> ### ⬇️ [KiraPortalSetup.exe indir](https://github.com/Kira-portal/desktop/releases/download/v1.0.0/Kira.Portal-1.0.0.Setup.exe)
 
 Alternatif olarak tüm sürümleri [**Releases**](https://github.com/Kira-portal/desktop/releases) sayfasından görebilirsiniz.
 
