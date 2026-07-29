@@ -7,7 +7,7 @@
 Use **Kira Portal** as a native app on Windows.
 No browser tabs — a fast, persistent-session, full-screen experience.
 
-[![Download](https://img.shields.io/badge/Download-Windows%20(.exe)-2ea44f?style=for-the-badge&logo=windows)](https://github.com/Kira-portal/desktop/releases/download/v1.0.0/Kira.Portal-1.0.0.Setup.exe)
+[![Download](https://img.shields.io/badge/Download-Windows%20(.exe)-2ea44f?style=for-the-badge&logo=windows)](https://github.com/Kira-portal/desktop/releases/download/v1.26.5874/Kira.Portal-Setup-1.26.5874.exe)
 [![Releases](https://img.shields.io/badge/All%20Versions-Releases-blue?style=for-the-badge&logo=github)](https://github.com/Kira-portal/desktop/releases)
 
 </div>
@@ -22,7 +22,7 @@ No browser tabs — a fast, persistent-session, full-screen experience.
 
 Click to download the latest version:
 
-> ### ⬇️ [Download KiraPortalSetup.exe](https://github.com/Kira-portal/desktop/releases/download/v1.0.0/Kira.Portal-1.0.0.Setup.exe)
+> ### ⬇️ [Download KiraPortalSetup.exe](https://github.com/Kira-portal/desktop/releases/download/v1.26.5874/Kira.Portal-Setup-1.26.5874.exe)
 
 Alternatively, you can see all versions on the [**Releases**](https://github.com/Kira-portal/desktop/releases) page.
 
@@ -69,7 +69,7 @@ Having an issue or a suggestion?
 
 En son sürümü indirmek için tıklayın:
 
-> ### ⬇️ [KiraPortalSetup.exe indir](https://github.com/Kira-portal/desktop/releases/download/v1.0.0/Kira.Portal-1.0.0.Setup.exe)
+> ### ⬇️ [KiraPortalSetup.exe indir](https://github.com/Kira-portal/desktop/releases/download/v1.26.5874/Kira.Portal-Setup-1.26.5874.exe)
 
 Alternatif olarak tüm sürümleri [**Releases**](https://github.com/Kira-portal/desktop/releases) sayfasından görebilirsiniz.
 
